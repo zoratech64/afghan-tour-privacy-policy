@@ -1,37 +1,79 @@
 Privacy Policy
 
-This Privacy Policy governs the manner in which Afghan Tour, developed by ZoRa Tech, collects, uses, maintains, and discloses information within the Afghan Tour mobile application ("App"). This privacy policy applies to the App and all products and services offered by Afghan Tour.
+Introduction
 
-User Data Collection and Usage
+Welcome to Afghan Tour, a mobile application developed by ZoRa Tech that introduces the beautiful country of Afghanistan to the world. We value your privacy and are committed to protecting your personal information. This Privacy Policy outlines how we collect, use, disclose, and protect your information when you use our application.
 
-Afghan Tour does not collect any personal identification information from Users. The only information collected is the user's location for the purpose of providing weather reports and currency exchange rates specific to that location. This location information is solely used for these purposes and is not stored or used for any other reasons.
+1. Information We Collect
 
-Content and Features
+We collect various types of information to provide and improve our service to you:
 
-Afghan Tour provides information about cities, historical background, culture, points of interest, local cuisine, and famous festivals of Afghanistan. The App also offers weather reports and currency exchange rates. Users are not able to submit any content, such as posts, photos, videos, or comments within the App. All content is generated and managed by Afghan Tour.
+1.1 Personal Information
 
-Third-Party Services
+Name and Surname
+Email Address
+Contact Number
+Password
+1.2 Usage Information
 
-Afghan Tour utilizes third-party services, including weather report providers, currency exchange rate providers, and Google Firebase, to enhance the functionality of the App. Users are encouraged to review the privacy policies of these third-party services for more information on how they handle and protect user data.
+Posts and stories uploaded by users
+Comments and interactions with posts
+1.3 Location Information
 
-Data Storage
+We collect your location data to provide weather reports relevant to your current city.
+1.4 Device Information
 
-All information about cities is stored in the Firebase database and is displayed to the User within the App. Afghan Tour takes all reasonable measures to secure and protect user data from unauthorized access or disclosure. We use encryption and secure storage to safeguard user data.
+Information about your device including IP address, device type, operating system, and unique device identifiers.
+1.5 Third-Party Services
 
-Monetization and Advertisements
+Information from third-party services, such as weather report providers, currency exchange rate providers, and Google Firebase.
+2. How We Use Your Information
 
-Afghan Tour is a completely free application and does not contain any advertisements. Users will not be charged any fees for using the App.
+We use the collected information for various purposes, including but not limited to:
 
-Target Audience
+Providing and maintaining our service
+Allowing you to upload and share posts and stories
+Displaying city information including photos, attractions, local foods, and festivals
+Reporting weather conditions and currency exchange rates
+Enhancing the functionality and user experience of the app
+Communicating with you regarding updates, security alerts, and customer support
+3. Sharing Your Information
 
-The App is designed for individuals interested in tourism or seeking information about Afghanistan. It is suitable for users of all ages.
+We do not sell or rent your personal information to third parties. We may share your information in the following circumstances:
 
-Changes to Privacy Policy
+With your consent: We may share your information if you give us specific permission to do so.
+Service providers: We may share information with third-party service providers who perform services on our behalf.
+Legal requirements: We may disclose your information if required to do so by law or in response to valid requests by public authorities.
+4. Data Storage and Security
 
-Afghan Tour reserves the right to update this Privacy Policy at any time. We encourage Users to frequently check this page for any changes. By using this App, Users acknowledge and agree that it is their responsibility to review this privacy policy periodically and become aware of modifications.
+Your information is stored securely on Google Firebase. We implement appropriate technical and organizational measures to protect your personal data against accidental or unlawful destruction, loss, alteration, unauthorized disclosure, or access.
 
-Contact Us
+5. Your Data Protection Rights
 
-If you have any questions about this Privacy Policy or the practices of this App, please contact us at afghan.tour64@gmail.com or by phone at +93786811941.
+Depending on your location, you may have the following rights regarding your personal data:
 
-By using this App, you signify your acceptance of this Privacy Policy. If you do not agree to this policy, please do not use our App.
+Right to access: You have the right to request copies of your personal data.
+Right to rectification: You have the right to request that we correct any information you believe is inaccurate or incomplete.
+Right to erasure: You have the right to request that we erase your personal data under certain conditions.
+Right to restrict processing: You have the right to request that we restrict the processing of your personal data under certain conditions.
+Right to object to processing: You have the right to object to our processing of your personal data under certain conditions.
+Right to data portability: You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.
+6. Children's Privacy
+
+Our app is accessible to users of all ages. We do not knowingly collect personal information from children under 13 without parental consent. If you become aware that your child has provided us with personal data without your consent, please contact us at afghan.tour64@gmail.com, and we will take steps to remove such information.
+
+7. Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. We recommend reviewing this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+8. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+
+Email: afghan.tour64@gmail.com
+Phone: +93786811941
+9. Consent
+
+By using our app, you consent to our Privacy Policy and agree to its terms.
+
+This Privacy Policy is intended to provide clarity on how your users' data is managed and protected while using the Afghan Tour app. Make sure to review it and tailor it further to meet your specific legal and operational requirements.
